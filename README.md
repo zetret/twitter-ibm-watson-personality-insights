@@ -4,4 +4,6 @@ This application helps you get deeper personality insights from someone's public
 
 If the user posts in another language, say Spanish, you can specify the input language as Spanish and then analyze their profile. IBM Watson AI currently supports analysis in English, Spanish, Arabic, Japanese and Korean.
 
+New branch created.
+
 View how this app works at: https://play.google.com/store/apps/details?id=com.upen.personalityapp
